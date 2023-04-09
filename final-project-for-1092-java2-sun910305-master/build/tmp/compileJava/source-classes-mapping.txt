@@ -1,0 +1,6 @@
+com/fju/Ways.java
+ com.fju.Ways
+com/fju/Menu.java
+ com.fju.Menu
+com/fju/Tester.java
+ com.fju.Tester
